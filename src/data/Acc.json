@@ -1,0 +1,44 @@
+[
+  {
+   
+    "id": 1,
+    "type": "hotel",
+    "name": "The plaza",
+    "cost": "$157.00NZD",
+    "product": "https://images.pexels.com/photos/6301172/pexels-photo-6301172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    
+  
+    
+
+  },
+
+  {
+    "id": 3,
+    "type": "Food",
+    "name": "Burger & Fries",
+    "cost": "$17.50NZD",
+    "product": "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+  
+  },
+    {
+
+
+ 
+"id": 4,
+"type": "Food",
+"name": "Breakfast Stack",
+"cost": "$20.00NZD",
+"product": "https://images.pexels.com/photos/2297961/pexels-photo-2297961.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+
+    {
+"id": 5,
+"type": "Bar",
+"name": "Jacobs Creek Glass",
+"cost": "$8.00NZD",
+"product": "https://images.pexels.com/photos/2912108/pexels-photo-2912108.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+  }
+]
